@@ -2,7 +2,7 @@
 
 **A high-quality TTS system** that converts text into natural human-like speech using deep learning. Ideal for voice assistants, audiobooks, and accessibility tools!  
 
-👉 **Try it now:** [`python tts_inference.py --text "Hello World"`](#usage)  
+👉 **Try it now:** [`text_to_speech.ipynb`](#usage)  
 
 ---
 
